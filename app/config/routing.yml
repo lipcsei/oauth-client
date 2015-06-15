@@ -1,3 +1,5 @@
-app:
-    resource: "@AppBundle/Controller/"
+foosio_blog:
+    resource: "@FoosioBlogBundle/Controller/"
     type:     annotation
+    prefix:   /
+
